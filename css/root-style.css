@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+html, body, div, span, p, a, ul, li{
+                 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+}
+body {
+    font-family:"DIN Next W1G Light";
+    background-color: beige;
+}
+.gradient {
+    background-color: floralwhite;
+    padding: 15px;
+    border: 1px solid #333;
+    text-align: center;
+}
+.gotoblog{
+    font-size:30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align:justify;
+}
+
+#main{
+
+    margin-left: 10%;
+    margin-right:10%;
+    padding: 0px 10px 0px 15px;
+    width:80%;
+    
+}
+#main p {
+    font-size:18px;
+    text-indent: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align:justify;
+    
+}
+
+#bottomside{ 
+    position: fixed; /* Фиксированное положение */
+    left: 0; /* Левый нижний угол */
+    bottom:0;
+    width: 100%;
+    background-color:antiquewhite;
+    border-top: 1px solid #ccc;
+    font-size: .8em;    
+    padding: 10px 10px 10px 10px;
+}
+#bottomside table{
+    margin-right:15%;
+}
