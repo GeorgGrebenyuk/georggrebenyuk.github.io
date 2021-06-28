@@ -16,12 +16,22 @@
 <icon BUILTIN="full-3"/>
 <node CREATED="1619201838903" ID="ID_159272456" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/arhiv-peshii-pohod-na-ozero-pobednoe-osen-2020-607c82537e45e42df4ab3f83" MODIFIED="1619201847623" TEXT="[&#x410;&#x440;&#x445;&#x438;&#x432;] &#x41f;&#x435;&#x448;&#x438;&#x439; &#x43f;&#x43e;&#x445;&#x43e;&#x434; &#x43d;&#x430; &#x43e;&#x437;&#x435;&#x440;&#x43e; &#x41f;&#x43e;&#x431;&#x435;&#x434;&#x43d;&#x43e;&#x435;. &#x41e;&#x441;&#x435;&#x43d;&#x44c; 2020"/>
 </node>
+<node CREATED="1624859835698" ID="ID_1801030218" MODIFIED="1624859847004" TEXT="&#x412;&#x435;&#x43b;&#x43e;&#x43f;&#x43e;&#x435;&#x437;&#x434;&#x43a;&#x438;">
+<icon BUILTIN="full-3"/>
+<node CREATED="1624859848882" ID="ID_1513970266" MODIFIED="1624859860866" TEXT="&#x412;&#x435;&#x43b;&#x43e;&#x43f;&#x43e;&#x435;&#x437;&#x434;&#x43a;&#x430; &#x432; &#x41a;&#x430;&#x432;&#x433;&#x43e;&#x43b;&#x43e;&#x432;&#x43e;">
+<icon BUILTIN="full-4"/>
+<node CREATED="1624859866283" ID="ID_1943547571" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/velopoezdka-v-kavgolovo-14062021-chast-1-60c75211b582164697903ede" MODIFIED="1624859872868" TEXT="&#x412;&#x435;&#x43b;&#x43e;&#x43f;&#x43e;&#x435;&#x437;&#x434;&#x43a;&#x430; &#x432; &#x41a;&#x430;&#x432;&#x433;&#x43e;&#x43b;&#x43e;&#x432;&#x43e; (14.06.2021). &#x427;&#x430;&#x441;&#x442;&#x44c; 1"/>
+<node CREATED="1624859874928" ID="ID_1099602563" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/velopoezdka-v-kavgolovo-14062021-chast-2-60cf84021ecc344c6710d052" MODIFIED="1624859888773" TEXT="&#x412;&#x435;&#x43b;&#x43e;&#x43f;&#x43e;&#x435;&#x437;&#x434;&#x43a;&#x430; &#x432; &#x41a;&#x430;&#x432;&#x433;&#x43e;&#x43b;&#x43e;&#x432;&#x43e; (14.06.2021). &#x427;&#x430;&#x441;&#x442;&#x44c; 2"/>
+<node CREATED="1624859901550" ID="ID_13998798" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/velopoezdka-v-kavgolovo-14062021-chast-3-60cf9186b4fa3773761b0ad2" MODIFIED="1624859911814" TEXT="&#x412;&#x435;&#x43b;&#x43e;&#x43f;&#x43e;&#x435;&#x437;&#x434;&#x43a;&#x430; &#x432; &#x41a;&#x430;&#x432;&#x433;&#x43e;&#x43b;&#x43e;&#x432;&#x43e; (14.06.2021). &#x427;&#x430;&#x441;&#x442;&#x44c; 3"/>
+</node>
+</node>
 </node>
 <node CREATED="1618471665278" ID="ID_1146312426" MODIFIED="1618472318015" POSITION="left" TEXT="&#x41f;&#x440;&#x43e;&#x444;&#x435;&#x441;&#x441;&#x438;&#x43e;&#x43d;&#x430;&#x43b;&#x44c;&#x43d;&#x44b;&#x435; &#x441;&#x442;&#x430;&#x442;&#x44c;&#x438;">
 <icon BUILTIN="full-2"/>
 <node CREATED="1618471676549" ID="ID_890979792" MODIFIED="1618471865771" TEXT="&#x41e; &#x43f;&#x440;&#x438;&#x43a;&#x43b;&#x430;&#x434;&#x43d;&#x43e;&#x43c; &#x43f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x438;">
 <icon BUILTIN="full-3"/>
 <node BACKGROUND_COLOR="#ccffff" CREATED="1618472241354" ID="ID_1067518957" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/zanimatelnoe-programmirovanie-eksport-oblaka-tochek-v-obj-format-607691bb37222b00b28e6cbc" MODIFIED="1618472301096" TEXT="&#x42d;&#x43a;&#x441;&#x43f;&#x43e;&#x440;&#x442; &#x43e;&#x431;&#x43b;&#x430;&#x43a;&#x430; &#x442;&#x43e;&#x447;&#x435;&#x43a; &#x432; &#x444;&#x43e;&#x440;&#x43c;&#x430;&#x442; OBJ"/>
+<node CREATED="1624859482059" ID="ID_312594334" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/preobrazovyvaem-poverhnost-landxml-v-ifc-608fc8a04461ec746ccc2411" MODIFIED="1624859504318" TEXT="&#x41f;&#x440;&#x435;&#x43e;&#x431;&#x440;&#x430;&#x437;&#x43e;&#x432;&#x44b;&#x432;&#x430;&#x435;&#x43c; &#x43f;&#x43e;&#x432;&#x435;&#x440;&#x445;&#x43d;&#x43e;&#x441;&#x442;&#x44c; LandXML &#x432; IFC"/>
 </node>
 <node CREATED="1618471713783" ID="ID_1267347593" MODIFIED="1618471869935" TEXT="&#x41e; &#x43f;&#x440;&#x43e;&#x434;&#x443;&#x43a;&#x442;&#x430;&#x445; Autodesk">
 <arrowlink DESTINATION="ID_1267347593" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_481459289" STARTARROW="None" STARTINCLINATION="0;0;"/>
@@ -41,6 +51,9 @@
 <node CREATED="1618471741393" ID="ID_64274773" MODIFIED="1618471890135" TEXT="AutoCAD Civil 3D">
 <icon BUILTIN="full-4"/>
 <node CREATED="1619201785207" ID="ID_700340458" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/civil-3d-poluchaem-relef-dlia-proizvolnoi-mestnosti-so-sputnikovyh-snimkov-6081679a69f1a2621718165d" MODIFIED="1619201800826" TEXT="Civil 3D - &#x41f;&#x43e;&#x43b;&#x443;&#x447;&#x430;&#x435;&#x43c; &#x440;&#x435;&#x43b;&#x44c;&#x435;&#x444; &#x434;&#x43b;&#x44f; &#x43f;&#x440;&#x43e;&#x438;&#x437;&#x432;&#x43e;&#x43b;&#x44c;&#x43d;&#x43e;&#x439; &#x43c;&#x435;&#x441;&#x442;&#x43d;&#x43e;&#x441;&#x442;&#x438; &#x441;&#x43e; &#x441;&#x43f;&#x443;&#x442;&#x43d;&#x438;&#x43a;&#x43e;&#x432;&#x44b;&#x445; &#x441;&#x43d;&#x438;&#x43c;&#x43a;&#x43e;&#x432;"/>
+<node CREATED="1624859515416" ID="ID_1444162027" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/civil-3d-podkliuchaemsia-cherez-wms-k-drugim-kartam-609820a7b8f34b04d2e87fdb" MODIFIED="1624859527043" TEXT="Civil 3D - &#x43f;&#x43e;&#x434;&#x43a;&#x43b;&#x44e;&#x447;&#x430;&#x435;&#x43c;&#x441;&#x44f; &#x447;&#x435;&#x440;&#x435;&#x437; WMS &#x43a; &#x434;&#x440;&#x443;&#x433;&#x438;&#x43c; &#x43a;&#x430;&#x440;&#x442;&#x430;&#x43c;"/>
+<node CREATED="1624859753566" ID="ID_1602455248" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/civil-3d-zadaem-poverhnosti-teksturu-iz-fotografii-60c6056a72119574b7448f6e" MODIFIED="1624859758677" TEXT="Civil 3D. &#x417;&#x430;&#x434;&#x430;&#x435;&#x43c; &#x43f;&#x43e;&#x432;&#x435;&#x440;&#x445;&#x43d;&#x43e;&#x441;&#x442;&#x438; &#x442;&#x435;&#x43a;&#x441;&#x442;&#x443;&#x440;&#x443; &#x438;&#x437; &#x444;&#x43e;&#x442;&#x43e;&#x433;&#x440;&#x430;&#x444;&#x438;&#x438;"/>
+<node CREATED="1624859775456" ID="ID_99463561" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/civil-3d-koordinaciia-dannyh-s-pomosciu-zaprosov-map-3d-60d4d706e87cb767467270b6" MODIFIED="1624859781097" TEXT="Civil 3D. &#x41a;&#x43e;&#x43e;&#x440;&#x434;&#x438;&#x43d;&#x430;&#x446;&#x438;&#x44f; &#x434;&#x430;&#x43d;&#x43d;&#x44b;&#x445; &#x441; &#x43f;&#x43e;&#x43c;&#x43e;&#x449;&#x44c;&#x44e; &#x437;&#x430;&#x43f;&#x440;&#x43e;&#x441;&#x43e;&#x432; Map 3D"/>
 </node>
 <node CREATED="1618471766673" ID="ID_739211654" MODIFIED="1618471893767" TEXT="Autodesk InfraWorks">
 <icon BUILTIN="full-4"/>
@@ -49,6 +62,27 @@
 </node>
 <node CREATED="1618471782055" ID="ID_1734689371" MODIFIED="1618471877108" TEXT="&#x41a;&#x43e;&#x43e;&#x440;&#x434;&#x438;&#x43d;&#x430;&#x446;&#x438;&#x44f; &#x43c;&#x43e;&#x434;&#x435;&#x43b;&#x435;&#x439; &#x438; &#x413;&#x418;&#x421;">
 <icon BUILTIN="full-3"/>
+<node CREATED="1624859543698" ID="ID_1142825092" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/v-mire-opensource-sasplaneta-kratkii-obzor-programmy-609ac16fd0fd62728b80c55a" MODIFIED="1624859571212" TEXT="&#x412; &#x43c;&#x438;&#x440;&#x435; open-source. SAS.&#x41f;&#x43b;&#x430;&#x43d;&#x435;&#x442;&#x430; - &#x43a;&#x440;&#x430;&#x442;&#x43a;&#x438;&#x439; &#x43e;&#x431;&#x437;&#x43e;&#x440; &#x43f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x44b;"/>
+<node CREATED="1624859722443" ID="ID_1616424904" MODIFIED="1624859729954" TEXT="NextGIS">
+<icon BUILTIN="full-4"/>
+<node CREATED="1624859731950" ID="ID_190783897" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/nextgis-pervye-shagi-chast-1-priamoe-geokodirovanie-ulic-60c261e6d01e2973d3273731" MODIFIED="1624859741429" TEXT="NextGIS. &#x41f;&#x435;&#x440;&#x432;&#x44b;&#x435; &#x448;&#x430;&#x433;&#x438;. &#x427;&#x430;&#x441;&#x442;&#x44c; 1 - &#x43f;&#x440;&#x44f;&#x43c;&#x43e;&#x435; &#x433;&#x435;&#x43e;&#x43a;&#x43e;&#x434;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435; &#x443;&#x43b;&#x438;&#x446;"/>
+</node>
+</node>
+<node CREATED="1624859586620" ID="ID_22068324" MODIFIED="1624859612229" TEXT="&#x41e;&#x431;&#x437;&#x43e;&#x440; &#x434;&#x440;&#x443;&#x433;&#x438;&#x445; &#x43f;&#x440;&#x43e;&#x434;&#x443;&#x43a;&#x442;&#x43e;&#x432;">
+<icon BUILTIN="full-3"/>
+<node CREATED="1624859614067" ID="ID_1605486986" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/v-mire-opensource-meshlab-obzor-programmy-v-kontekste-zadach-po-obrabotke-dannyh-fotogrametrii-i-oblakov-tochek-60a20d3397c8164a89d19297" MODIFIED="1624859625105" TEXT="&#x412; &#x43c;&#x438;&#x440;&#x435; open-source. MeshLab - &#x43e;&#x431;&#x437;&#x43e;&#x440; &#x43f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x44b; &#x432; &#x43a;&#x43e;&#x43d;&#x442;&#x435;&#x43a;&#x441;&#x442;&#x435; &#x437;&#x430;&#x434;&#x430;&#x447; &#x43f;&#x43e; &#x43e;&#x431;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43a;&#x435; &#x434;&#x430;&#x43d;&#x43d;&#x44b;&#x445; &#x444;&#x43e;&#x442;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x435;&#x442;&#x440;&#x438;&#x438; &#x438; &#x43e;&#x431;&#x43b;&#x430;&#x43a;&#x43e;&#x432; &#x442;&#x43e;&#x447;&#x435;&#x43a;"/>
+</node>
+<node CREATED="1624859639555" ID="ID_58762880" MODIFIED="1624859650296" TEXT="IFC">
+<icon BUILTIN="full-3"/>
+<node CREATED="1624859653360" ID="ID_1445789766" MODIFIED="1624859665512" TEXT="XBim">
+<icon BUILTIN="full-4"/>
+<node CREATED="1624859670583" ID="ID_1985023014" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/v-mire-opensource-xbim-toolkit-chast-1-kratkoe-vvedenie-v-paket-xbim-essentials-xbim-xplorer-60a3a38297f53c0af0b15e1e" MODIFIED="1624859694166" TEXT="&#x412; &#x43c;&#x438;&#x440;&#x435; open-source. Xbim Toolkit. &#x427;&#x430;&#x441;&#x442;&#x44c; 1. &#x41a;&#x440;&#x430;&#x442;&#x43a;&#x43e;&#x435; &#x432;&#x432;&#x435;&#x434;&#x435;&#x43d;&#x438;&#x435; &#x432; &#x43f;&#x430;&#x43a;&#x435;&#x442; (Xbim Essentials, Xbim Xplorer)"/>
+<node CREATED="1624859704672" ID="ID_674421741" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/v-mire-opensource-xbim-toolkit-chast-2-sozdanie-i-validaciia-faila-ifc-xbim-essentials-xbim-xplorer-60a6297bddb76a102308ee53" MODIFIED="1624859711634" TEXT="&#x412; &#x43c;&#x438;&#x440;&#x435; open-source. Xbim Toolkit. &#x427;&#x430;&#x441;&#x442;&#x44c; 2. &#x421;&#x43e;&#x437;&#x434;&#x430;&#x43d;&#x438;&#x435; &#x438; &#x432;&#x430;&#x43b;&#x438;&#x434;&#x430;&#x446;&#x438;&#x44f; &#x444;&#x430;&#x439;&#x43b;&#x430; IFC (Xbim Essentials, Xbim Xplorer)"/>
+</node>
+</node>
+<node CREATED="1624859792267" ID="ID_87889602" MODIFIED="1624859810226" TEXT="&#x41e;&#x431;&#x43b;&#x430;&#x43a;&#x430; &#x442;&#x43e;&#x447;&#x435;&#x43a; &#x438; &#x440;&#x430;&#x431;&#x43e;&#x442;&#x430; &#x441; &#x43d;&#x438;&#x43c;&#x438;">
+<icon BUILTIN="full-3"/>
+<node CREATED="1624859811971" ID="ID_1569301069" LINK="https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/oblaka-tochek-dlia-zadach-infrastruktury-chast-1-predobrabotka-i-rasterizaciia-60cfa2a0344ba663b17ed303" MODIFIED="1624859823087" TEXT="&#x41e;&#x431;&#x43b;&#x430;&#x43a;&#x430; &#x442;&#x43e;&#x447;&#x435;&#x43a; &#x434;&#x43b;&#x44f; &#x437;&#x430;&#x434;&#x430;&#x447; &#x438;&#x43d;&#x444;&#x440;&#x430;&#x441;&#x442;&#x440;&#x443;&#x43a;&#x442;&#x443;&#x440;&#x44b;. &#x427;&#x430;&#x441;&#x442;&#x44c; 1 - &#x43f;&#x440;&#x435;&#x434;&#x43e;&#x431;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43a;&#x430; &#x438; &#x440;&#x430;&#x441;&#x442;&#x435;&#x440;&#x438;&#x437;&#x430;&#x446;&#x438;&#x44f;"/>
 </node>
 </node>
 </node>
