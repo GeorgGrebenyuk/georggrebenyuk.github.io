@@ -1,7 +1,7 @@
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# Описание
+
+Настоящий репозиторий содержит свои материалы блога, который с августа 2024 года перестал выходить на dzen.ru.
 
 # Summary
 
-* NVP-dev guide [ссылка](,/blog/DevGuide.md);
+* NVP-dev guide [ссылка](./blog/DevGuide.md);
