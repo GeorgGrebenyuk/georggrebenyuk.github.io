@@ -28,12 +28,12 @@ MsBinaryPublisher m_publisher = new MsBinaryPublisher();
 string dbtype;
 if (dbtype == "MSSQL")
 {
-	m_publisher.Connect(server, dbname, user, password, 
+    m_publisher.Connect(server, dbname, user, password, 
         "MSSQL", (int)port, null);
 }
 else if (dbtype == "PGSQL")
 {
-	this.m_publisher.Connect(server, dbname, user, password, 
+    m_publisher.Connect(server, dbname, user, password, 
         "PGSQL", (int)port, null);
 }
 ```
@@ -42,7 +42,7 @@ else if (dbtype == "PGSQL")
 
 ```csharp
 IList objects;
-m_publisher.BeginPublication((long)(objects.Count + 5));
+m_publisher.BeginPublication((long)(objects.Count + 6));
 //+6 отведено для элементов иерархии (см. добавление их ниже)
 ```
 
