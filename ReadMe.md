@@ -6,6 +6,8 @@
 
 # Summary
 
+* [ModelStudio CS  - Исследуем C++ API. Часть 1](./blog/article_23092024_MST.md) (23.09.2024);
+
 * [ModelStudio CS - формулы и COM. Часть 1](./blog/article_02092024_MST.md) (02.09.2024);
 
 * [Программная сторона публикации данных в CADLib из сторонней САПР](./blog/article_02092024_CS.md) (02.09.2024);
