@@ -6,7 +6,7 @@
 
 # Summary
 
-* [How to convert Autodesk online-help to offline format] (./blog/article_18012025_DOC_1.md) (18.01.2025);
+* [How to convert Autodesk online-help to offline format](./blog/article_18012025_DOC_1.md) (18.01.2025);
 
 * [ModelStudio CS  - Исследуем C++ API. Часть 1](./blog/article_23092024_MST.md) (23.09.2024);
 
