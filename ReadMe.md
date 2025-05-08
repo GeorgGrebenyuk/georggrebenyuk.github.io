@@ -6,6 +6,8 @@
 
 # Summary
 
+* [Нарезка топоосновы в nanoCAD](./blog/article_08052025_NC.md) (08.05.2025);
+
 * [TBS Cloud - Летая в облаках](./blog/article_13042025_TNT.md) (13.04.2025);
 
 * [How to convert Autodesk online-help to offline format](./blog/article_18012025_DOC_1.md) (18.01.2025);
