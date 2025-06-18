@@ -6,6 +6,8 @@
 
 # Summary
 
+* [ModelStudio CS - формулы и COM. Часть 2 - О создании объектов](./blog/article_18062025_MST.md) (18.06.2025);
+
 * [Нарезка топоосновы в nanoCAD](./blog/article_08052025_NC.md) (08.05.2025);
 
 * [TBS Cloud - Летая в облаках](./blog/article_13042025_TNT.md) (13.04.2025);
