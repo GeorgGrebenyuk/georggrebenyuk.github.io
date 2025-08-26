@@ -8,6 +8,8 @@
 
 # Summary
 
+* [CDE-форматы - SMDX](./blog/article_26082025_SMDX.md) (26.08.2025);
+
 * [ModelStudio CS - формулы и COM. Часть 3 - Выражения, создание меток и отчетов](./blog/article_22062025_MST.md) (22.06.2025);
 
 * [ModelStudio CS - формулы и COM. Часть 2 - О создании объектов](./blog/article_18062025_MST.md) (18.06.2025);
