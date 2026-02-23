@@ -11,6 +11,7 @@
 | 👣 Прогулка по Выборгу (Старый город)                                                                                                            | 11.01.2026 | [Ссылка](https://disk.yandex.ru/d/lf16aGykbjaSxA) | [Ссылка](https://www.strava.com/activities/17015365887) |
 | 👣 Прогулка по Александровскому парку, г. Пушкин, г. Санкт-Петербург                                                                             | 12.01.2026 | [Ссылка](https://disk.yandex.ru/d/NMiZfcPq9LXvgQ) | [Ссылка](https://www.strava.com/activities/17024214362) |
 | 🚲 Синево - Марьино - берег Вуоксы - Марьино - Коммунары - Малая Горка - Плодовое - Веснино - Мельничные ручьи - Цветково - Соловьёвка - Громово | 08.02.2026 | [Ссылка](https://disk.yandex.ru/d/Hkfr2USKUcSDjg) | [Ссылка](https://www.strava.com/activities/17332964542) |
+| 🚲 Кирилловское - Заходское - Каннельярви                                                                                                        | 23.02.2026 | [Ссылка](https://disk.yandex.ru/d/VZK2HlRHUBWXoA) | [Ссылка](https://www.strava.com/activities/17496344315) |
 
 ## 2025
 
